@@ -10,7 +10,7 @@ A console-based hospital management system built using Python and MySQL as a par
 
 ## Tech Stack       
 - Python
-- MySQL
+- MySQL  
 - `mysql-connector-python`
          
 ## How to Run
