@@ -5,7 +5,7 @@ A console-based hospital management system built using Python and MySQL as a par
 ## Features       
 - Add, update, delete patient records      
 - Manage room allocation    
-- Handle billing and discharge 
+- Handle billing and discharge  
 - Search patients by ID or name  
           
 ## Tech Stack          
