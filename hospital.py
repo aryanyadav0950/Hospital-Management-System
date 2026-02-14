@@ -131,11 +131,12 @@ def main_menu():
             print("Exiting... Goodbye!")
             break
         else:
-            print("Invalid choice! Try again.\n")
+            print("Invalid choice!\n")
 
 
 if __name__ == "__main__":
     main_menu()
+
 
 
 
