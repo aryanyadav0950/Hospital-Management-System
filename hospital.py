@@ -3,7 +3,7 @@
 
 import mysql.connector
 
-# Update ONLY your MySQL password here
+# Update ONLY your MySQL password here 
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
@@ -136,6 +136,7 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
 
 
 
