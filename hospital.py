@@ -8,7 +8,7 @@ DB_CONFIG = {
     "host": "localhost",
     "user": "root",
     "password": "aryan123",  
-    "database": "hospital_db"
+    "database": "hospital_db" 
 }
 
 def get_connection():
@@ -136,6 +136,7 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
 
 
 
