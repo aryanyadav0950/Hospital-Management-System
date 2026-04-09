@@ -1,7 +1,7 @@
 # Hospital Management System - Python + MySQL
 
 
-import mysql.connector
+import mysql.connector 
 
 # Update ONLY your MySQL password here 
 DB_CONFIG = {
