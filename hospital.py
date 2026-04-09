@@ -10,7 +10,7 @@ DB_CONFIG = {
     "password": "aryan123",  
     "database": "hospital_db" 
 }
-
+ 
 def get_connection():
     """Create MySQL connection."""
     return mysql.connector.connect(**DB_CONFIG)
